@@ -1,4 +1,4 @@
-//singleton //Oject.create
+//singleton //Object.create
 
 //object literals
 const mySymb = Symbol("key1")
