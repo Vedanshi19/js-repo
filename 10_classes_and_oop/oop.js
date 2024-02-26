@@ -28,4 +28,4 @@ console.log(Userone);
 //when we use the new keyword 1. An empty object know as instance is created.
 //2. Constructor function is called beacuse of this.
 //3. All the arguments we wrote gets injected in it.
-//4. we get them in a function
+//4. we get them in a function 
